@@ -34,11 +34,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
----
+#### Обо мне
 
-## Обо мне
-
-<img src="https://i.pinimg.com/564x/20/37/a9/2037a9b577693ea5ee2bb39cdc801a04.jpg" alt="pic" height="250">
+<img src="https://i.pinimg.com/564x/20/37/a9/2037a9b577693ea5ee2bb39cdc801a04.jpg" alt="pic" height="150">
 <p>
 Привет, я Ната. Готова сотрудничать и работать в команде. Открыта для новых проектов и возможностей, которые помогут мне вырасти как Front-end разработчику. Я верю, что совместное творчество и обмен знаниями могут привести к отличным результатам.
 </p>
