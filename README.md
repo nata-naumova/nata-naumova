@@ -3,8 +3,6 @@
   <img src="./assets/logoF.png" alt="codelnd" align="center"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=codelnd)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBDBBE&random=false&width=435&lines=Frontend-developer+%F0%9F%A7%8A)](https://git.io/typing-svg)
 
 ### О себе:
@@ -37,10 +35,10 @@
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       <br>npm
     </td>
-    <td align="center" width="110" height="90">
+    <!--<td align="center" width="110" height="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
       <br>yarn
-    </td>
+    </td>-->
         <td align="center" width="110" height="90">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       <br>HTML5
@@ -76,14 +74,14 @@
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
       <br>MobX
     </td>
-     <td align="center" width="110" height="90">
+     <!--<td align="center" width="110" height="90">
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
       <br>Apollo
-    </td>
-    <td align="center" width="110" height="90">
+    </td>-->
+    <!--<td align="center" width="110" height="90">
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       <br>Webpack
-    </td>
+    </td>-->
     <td align="center" width="110" height="90">
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       <br>Vite
@@ -102,10 +100,10 @@
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       <br>MUI
     </td>
-   <td align="center" width="110" height="90">
+   <!--<td align="center" width="110" height="90">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
       <br>Bootstrap
-    </td>
+    </td>-->
    <td align="center" width="110" height="90">
         <img src="./assets/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       <br>Tailwind
@@ -120,14 +118,14 @@
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       <br>Jest
     </td>
-    <td align="center" width="110" height="90">
+    <!--<td align="center" width="110" height="90">
         <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
       <br>Cypress
     </td>
         <td align="center" width="110" height="90">
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       <br>Storybook
-    </td>
+    </td>-->
   </tr> 
 </table>
 
@@ -174,16 +172,11 @@
 
 ---
 
-
-
-
-<img src="https://habrastorage.org/webt/l8/wn/x0/l8wnx0ip3hxoi80bwvs5tfeqso0.gif" width="350"/> 
-
 ### Контакты:
 
-<a href="https://t.me/codenis">
+<a href="#">
 <img alt="мой телеграм" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
 </a>
-<a href="mailto:codenisweb@yandex.ru">
+<a href="mailto:#">
   <img alt="моя почта" src="https://img.icons8.com/fluency/48/000000/circled-envelope.png" />
 </a>
