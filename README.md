@@ -3,8 +3,6 @@
   <img src="./assets/logoF.png" alt="codelnd" align="center"/>
 </a>
 
----
-
 ![](https://komarev.com/ghpvc/?username=codelnd)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EBDBBE&random=false&width=435&lines=Frontend-developer+%F0%9F%A7%8A)](https://git.io/typing-svg)
