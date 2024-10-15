@@ -171,7 +171,7 @@
 </table>
 
 ---
-
+<!--
 ### Контакты:
 
 <a href="#">
@@ -180,3 +180,4 @@
 <a href="mailto:#">
   <img alt="моя почта" src="https://img.icons8.com/fluency/48/000000/circled-envelope.png" />
 </a>
+-->
