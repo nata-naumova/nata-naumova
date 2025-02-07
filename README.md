@@ -1,6 +1,6 @@
 <body>
 <br>
-
+<br>
 <h2 align="center">📇 Описание</h2>
 <p>
 <img src="https://i.pinimg.com/736x/34/49/f5/3449f5bb7b112d5a927acc63a6d655bf.jpg" width="200" align="right">
@@ -27,7 +27,7 @@
 <h2 align="center">📋 Базовый функционал</h2>
  <br>
 
-<table width='100%' align="center">
+<table width='100%'>
   <tr>
   <td align="center" width="110" height="90">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
@@ -82,7 +82,7 @@
 <br>
 
 <h2 align="center">📝 Для связи</h2>
-<table width='100%' align="center">
+<table width='100%'>
     <tr>
         <td align="center" width="110" height="90">
             <a href="https://t.me/k0r1tsa" target="_blank">
