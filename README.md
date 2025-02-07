@@ -1,6 +1,6 @@
 <body>
 <br>
-<br>
+
 <h2 align="center">📇 Описание</h2>
 <p>
 <img src="https://i.pinimg.com/736x/34/49/f5/3449f5bb7b112d5a927acc63a6d655bf.jpg" width="200" align="right">
@@ -23,7 +23,7 @@
 <b>Минусы:</b> Любит смотреть видеофайлы (сериалы, аниме и т.д)
 </li>
 <br>
-
+<br>
 <h2 align="center">📋 Базовый функционал</h2>
  <br>
 
@@ -56,7 +56,7 @@
   </tr> 
 </table>
 
-<table width='100%' align="center">
+<table width='100%'>
   <tr>
    <td align="center" width="110" height="90">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
