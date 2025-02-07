@@ -85,12 +85,15 @@
 <table width='100%' align="center">
     <tr>
         <td align="center" width="110" height="90">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="36" height="36" alt="" />
-            <a href="https://t.me/k0r1tsa" target="_blank">@k0r1tsa</a><br>
+            <a href="https://t.me/k0r1tsa" target="_blank">
+             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" />
+           </a>
+            <br>
         </td>
         <td align="center" width="110" height="90">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="36" height="36" alt="" />
-            <a href="mailto:naumonata@yandex.ru" target="_blank">naumonata@yandex.ru</a>
+         <a href="mailto:naumonata@yandex.ru" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" />
+         </a>
         </td>
     </tr>
 </table>
