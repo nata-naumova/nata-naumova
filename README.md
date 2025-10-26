@@ -1,11 +1,8 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="650"/>
   <div id="badges">
     <a href="https://t.me/k0r1tsa">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black&labelColor=red&color=white" alt="Codewars Badge"/>
     </a>
   </div>
 </div>
