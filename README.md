@@ -54,12 +54,12 @@
 ---
 
 <div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salimov-dev&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nata-naumova&theme=radical" alt="Profile statistics" width="49.7%" height="auto"></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nata-naumova&theme=radical" alt="Data on commits per day" width="49.7%" height="auto"></a>
 </div>
 
 <div display="flex" alignItems="start">
   <a href="https://github.com/nata-naumova/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nata-naumova&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nata-naumova&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
 </div>
