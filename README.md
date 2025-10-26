@@ -59,7 +59,6 @@
 </div>
 
 <div display="flex" alignItems="start">
-  <a href="https://github.com/nata-naumova/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nata-naumova&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes" alt="Top Languages" width="49.7%" height="auto">
 </div>
