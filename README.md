@@ -1,22 +1,68 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://t.me/k0r1tsa">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black&labelColor=red&color=white" alt="Codewars Badge"/>
+    </a>
+  </div>
+</div>
 
-Привет, 🥐
+### :man_technologist: О себе:
 
-## 🛠  Технологии и инструменты
+Привет, я Frontend Developer
 
-<a name="learning-now"></a>
+- :smiley_cat: В свободное время учусь чему то новому.
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+---
 
-## 🔍  Where to find me
+#### Стек технологий
 
+<p>
+  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
+    <br>
+  <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/RTK%20Query-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-282c34?logo=react&logoColor=ec5990" height="25">
+  <img src="https://img.shields.io/badge/YUP-282c34?logo=yup" height="25">
+  <img src="https://img.shields.io/badge/React%20Router-282c34?logo=react-router&logoColor=ca4245" height="25">
+  <img src="https://img.shields.io/badge/React%20Table-282c34?logo=react&logoColor=61dafb" height="25">
+  <img src="https://img.shields.io/badge/React%20Yandex%20Maps-282c34?logo=yandex&logoColor=ff0000" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/WebSocket-282c34?logo=websocket" height="25">
+  <img src="https://img.shields.io/badge/Axios-282c34?logo=axios&logoColor=5a29e4" height="25">
+  <img src="https://img.shields.io/badge/Lodash-282c34?logo=lodash" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Jest-282c34?logo=jest&logoColor=c21325" height="25">
+  <img src="https://img.shields.io/badge/Testing%20Library-282c34?logo=testing-library&logoColor=e33332" height="25">
+</p>
+
+#### Дополнительный стек
+
+<p>
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
+</p>
+
+---
+
+<div>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salimov-dev&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+</div>
+
+<div display="flex" alignItems="start">
+  <a href="https://github.com/nata-naumova/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nata-naumova&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
+  </a>
+</div>
